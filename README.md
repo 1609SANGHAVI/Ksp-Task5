@@ -1,2 +1,3 @@
-# Ksp-Task5
+# javascript
+
 This task is about basics of javascript
